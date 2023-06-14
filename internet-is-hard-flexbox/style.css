@@ -13,8 +13,14 @@
   }
   
   .menu {
-    border: 1px solid #fff;  /* For debugging */
     width: 900px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+  }
+  .links {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .signup {
+    margin-right: 20px;
   }
