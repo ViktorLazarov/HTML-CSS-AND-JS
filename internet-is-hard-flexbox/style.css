@@ -25,7 +25,10 @@
 }
 
 .signup {
-  margin-right: 20px;
+  margin-left: auto;
+}
+.login {
+  margin-left: 20px;
 }
 
 .header-container {
@@ -89,4 +92,10 @@
 }
 .footer-three {
   flex: 2;
+}
+.footer-one,
+.footer-three {
+  background-color: #5995DA;
+  flex: initial;
+  width: 300px;
 }
